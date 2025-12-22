@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/hjhalani30/haiku-dataset
+https://huggingface.co/datasets/statworx/haiku
+https://huggingface.co/datasets/huanggab/reddit_haiku
+https://www.kaggle.com/datasets/bfbarry/haiku-dataset
